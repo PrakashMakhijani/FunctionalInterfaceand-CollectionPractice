@@ -1,0 +1,1 @@
+# FunctionalInterfaceand-CollectionPractice
